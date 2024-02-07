@@ -32,7 +32,6 @@ export default function Filters() {
 
           <div style={{ display: "flex", gap: "8px" }}>
             <input type="checkbox" id="1Stop" />
-
             <label htmlFor="1Stop">1 Stop</label>
           </div>
         </div>
